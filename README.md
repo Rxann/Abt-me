@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rxann
 - 👀 I’m interested in Coding and Minecraft!
 - 🌱 I’m currently learning Rust and other tech!
-- 💞️ I’m looking to collaborate on Cash (My toy programming language made in Rust!)
+- 💞️ I’m looking to collaborate on new projects!
 - 📫 How to reach me Discord!
 
 <!---
