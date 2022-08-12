@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Rxann
-- 👀 I’m interested in Coding and Minecraft!
-- 🌱 I’m currently learning Rust and other tech!
-- 💞️ I’m looking to collaborate on new projects!
-- 📫 How to reach me Discord!
-
-<!---
-Rxann/Rxann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[](https://media0.giphy.com/media/CKlafeh1NAxz35KTq4/giphy.gif?cid=ecf05e47bwsq4qa9qr19qs3e877yolg5gl79q42yfinvcat0&rid=giphy.gif&ct=g)
+[![Rxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
