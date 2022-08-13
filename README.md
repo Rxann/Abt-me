@@ -4,4 +4,4 @@
 
 
 
-[![Rxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxann&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Rxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxann&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
